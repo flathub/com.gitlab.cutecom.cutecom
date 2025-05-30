@@ -1,0 +1,14 @@
+diff --git a/com.gitlab.cutecom.cutecom.appdata.xml b/com.gitlab.cutecom.cutecom.appdata.xml
+index 5bdb8d2..26802f2 100644
+--- a/com.gitlab.cutecom.cutecom.appdata.xml
++++ b/com.gitlab.cutecom.cutecom.appdata.xml
+@@ -2,6 +2,9 @@
+ <component type="desktop-application">
+   <id>com.gitlab.cutecom.cutecom</id>
+   <name>Cutecom</name>
++  <developer id="com.gitlab.cutecom">
++    <name>Alexander Neundorf</name>
++  </developer>
+   <metadata_license>CC0-1.0</metadata_license>
+   <project_license>GPL-3.0</project_license>
+   <summary>Graphical serial terminal</summary>
