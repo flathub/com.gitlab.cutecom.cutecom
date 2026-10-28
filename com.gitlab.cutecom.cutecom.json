@@ -9,7 +9,6 @@
 	"finish-args": [
 		"--socket=wayland",
 		"--socket=fallback-x11",
-		"--device=dri",
 		"--share=ipc",
 		"--filesystem=home",
 		"--device=all"
